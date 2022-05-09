@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Joseflin Sans', sans-serif;
+}
+
+.nav-bar-button{
+    height: 35px;
+    text-align: center;
+
+}
